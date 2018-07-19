@@ -1,5 +1,5 @@
 ## Using Alces flight to create a temporary HPC cluster for an MPI training course
-We used the free version of Alces Flight along with customisation scripts and Amazon spot pricing to create a temporary cluster with up to 128 cores to support an MPI training course.
+We used the free version of Alces Flight (Which only usually supports one user) along with customisation scripts and Amazon spot pricing to create a temporary cluster with up to 128 cores to support an MPI training course with 30 attendees.
 
 Total HPC costs for the 2 days was around $40 and the cluster performed perfectly.
 
